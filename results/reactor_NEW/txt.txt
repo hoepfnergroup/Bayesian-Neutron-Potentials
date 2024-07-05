@@ -1,0 +1,1 @@
+This is the file location where ".h5" files are stored from MCMC runs.
